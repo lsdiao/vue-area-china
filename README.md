@@ -1,5 +1,5 @@
-# vue-pagination
-pagination components for vue.js
+# vue-area-china
+area components for vue.js
 
 # How to use?
 ```
